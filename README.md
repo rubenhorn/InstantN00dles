@@ -9,7 +9,7 @@ A simple docker + node.js template for hosting websites on the actual internet w
 5. Profit
 
 ## Is it secure?
-You app runs in a docker container and is isolated from your host system.  
+Your app runs in a docker container and is isolated from your host system.  
 A tunnel is established connecting only this container to the dangerous void beyond your LAN.
 
 ## Can I run it locally only?
