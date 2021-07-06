@@ -14,4 +14,4 @@ A tunnel is established connecting only this container to the dangerous void bey
 
 ## Can I run it locally only?
 If the environment variable `SUBDOMAIN` is not set, no tunnel is established.  
-When running in a docker container, you have to remove the corresponding line from `./Dockerfile` and create a port binding instead.
+When running in a docker container, you have to remove the corresponding line from `./Dockerfile` and create a port mapping instead.
